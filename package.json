@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "nuxi dev --host",
+    "build": "nuxi build"
+  },
   "dependencies": {
     "@nuxt/image": "^1.0.0",
     "nuxt": "^3.8.0"
