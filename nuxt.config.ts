@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   ],
   image: {
     cloudflare: {
-      baseURL: ''
+      baseURL: 'https://nuxt-image-issue-1-mry.pages.dev/'
     }
   },
   experimental: {
