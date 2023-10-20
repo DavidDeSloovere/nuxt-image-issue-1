@@ -4,5 +4,9 @@ export default defineNuxtConfig({
   ],
   nitro: {
     preset: "cloudflare-pages"
+  },
+  experimental: {
+    // https://github.com/unjs/nitro/issues/1844
+    appManifest: false
   }
 });
