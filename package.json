@@ -5,7 +5,8 @@
   },
   "dependencies": {
     "@nuxt/image": "^1.0.0",
-    "nuxt": "^3.8.0"
+    "nuxt": "^3.8.0",
+    "sharp": "^0.33.0"
   },
   "volta": {
     "node": "18.18.2"
