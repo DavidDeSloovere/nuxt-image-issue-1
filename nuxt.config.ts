@@ -5,5 +5,6 @@ export default defineNuxtConfig({
   experimental: {
     // https://github.com/unjs/nitro/issues/1844
     appManifest: false
-  }
+  },
+  image: {}
 });
