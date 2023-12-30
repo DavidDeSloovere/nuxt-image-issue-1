@@ -5,7 +5,6 @@
 
    
 <NuxtImg provider="ipx" src="/cat.jpg" width="1024" quality="1" format="webp" />
-<NuxtImg provider="cloudflare" src="/cat.jpg" width="1024" quality="1" format="webp" />
 
     <hr>
     Orig<br>
